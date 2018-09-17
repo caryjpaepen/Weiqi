@@ -1,1 +1,1 @@
-Go is a boardgame.
+Go is an ancient boardgame originated from China.
