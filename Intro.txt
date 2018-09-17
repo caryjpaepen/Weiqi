@@ -1,1 +1,2 @@
 Go is an ancient boardgame originated from China.
+It takes a few minutes to learn, but a life time to master.
