@@ -1,4 +1,5 @@
-Go is an ancient boardgame originated from China.
+
+Go(also known as 围棋,囲碁,바둑) is an ancient boardgame originated from China.
 
 It takes a few minutes to learn the rules, but a lifetime to master the strategies.
 
